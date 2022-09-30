@@ -1,2 +1,3 @@
 # Unity ShaderLab 新手宝典
-# 练习
+
+本库为该书的练习
